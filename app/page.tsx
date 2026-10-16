@@ -6,7 +6,7 @@ export default function Home() {
     <main className="w-full">
       <HeroSection />
       {/* <FeaturesSection /> */}
-      {/* <StatsSection /> */}
+      <StatsSection />      
       {/* <BenefitsSection /> */}
       {/* <TextRevealSection /> */}
       {/* <HowItWorks /> */}

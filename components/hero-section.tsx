@@ -182,7 +182,7 @@ export default function HeroSection() {
                   alt="Nike Logo"
                   height="20"
                   width="25"
-                />
+                /> 
               </div>
               <div className="flex">
                 <Image
